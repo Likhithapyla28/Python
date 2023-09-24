@@ -1,6 +1,6 @@
 #to implement conditional statements 
 n=int(input("enter any number"))
 if(n%2==0):
-print("even number")
+    print("even number")
 else:
-print("odd number")
+    print("odd number")
